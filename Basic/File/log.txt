@@ -1,0 +1,5 @@
+std::string titlegame = """Perfect Dark é um jogo eletrônico de tiro em primeira pessoa desenvolvido e publicado pela Rare para 
+o console Nintendo 64 em 2000. É o primeiro jogo da série Perfect Dark e sua história segue Joanna Dark, uma agente do centro de
+pesquisa Carrington Institute, em sua luta para tentar impedir uma conspiração extraterrestre da empresa rival dataDyne. O jogo apresenta
+um modo campanha onde o jogador deve completar uma série de fases para progredir na história, bem como uma gama de opções multijogador, incluindo 
+um modo cooperativo e cenários tradicionais de mata-mata com bots controlados por computador.""";
